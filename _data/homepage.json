@@ -3,11 +3,7 @@
   "subtitle": "",
   "menu": [
     {
-      "title": "read more here",
-      "entries": []
-    },
-    {
-      "title": "all posts with the 'post' tag",
+      "title": "blog",
       "post_list": "post"
     }
   ]
