@@ -1,11 +1,19 @@
 ---
-title: The practilcal limitations of 10bit
-date: 2023-08-28T21:07:25.960Z
+title: The red sensor and my partial understanding of it
+date: 2023-08-31T21:08:20.787Z
 tags:
   - post
 ---
-In this little blog post, I will look at the practical limitations of 10bit.
+The RED Komodo Sensor and my conceptual understanding of it.
 
-When working on NTFAFP due to limitations like storage and compute power, we chose to film in ProRes 422HQ however during the DI, artifacting and a certain level of banding was visible. I will try to attach photos for reference. While mostly unnoticed during the screening, their existence raises the question about the practical limitations of 10-bit recording and if we should have gone for ProRes RAW as a recording instead.
+As it produces a Raw R3D output, ISO is just an interpretation of the sensor data. So my belief is that the sensor has an optimal in-sensor lux range. By this, I mean that the sensor performs best when it receives a certain amount of photons between x-y. (This is the raw sensors’ dynamic range)
 
-It is easy to see the difference between 8-bit colour and 10-bit. In a conventional sense, 10-bit recording is more than enough for most projects. However, at what point do you reach the practical limitations and are required to shift to 12-bit/16-bit?
+Whilst I don’t believe the raw data has what we conserve as dynamic range, the interpretation from the ISO component adds a dynamic range into the equation. I might be very wrong here and my understanding isn’t very good but I believe the sensor converts from a floating point to a 16-bit output.
+
+This is where dynamic range allocation comes into place. As well as signal boosting. because when you do as RED says to use a higher ISO like 1600 in bright situations, you are reducing the amount of photons hitting the sensor. This naturally reduces clipping at a cost to the shadow section. As we boost the raw input data, we will have a greater noise floor.
+
+The inverse is also true when using lower ‘ISOs’ to interpret darker scenes that we over-exposed to reduce the amount of naturally occurring photon noise.
+
+What you are doing is bringing the sensor back to its sweet spot.
+
+To conclude, the relocation of the middle grey point is a smart but hacky way to get the most out of the raw sensor dynamic range, using sensor jujutsu to utilise its weakness as a benefit.
