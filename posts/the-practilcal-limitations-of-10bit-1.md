@@ -1,6 +1,6 @@
 ---
 title: The practilcal limitations of 10bit
-date: ""
+date: 2023-08-28T11:35:09.710Z
 tags:
   - post
 ---
