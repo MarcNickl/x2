@@ -1,6 +1,6 @@
 ---
 title: The red sensor and my partial understanding of it
-date: ""
+date: 2023-09-04T11:35:00.000Z
 tags:
   - post
 ---
