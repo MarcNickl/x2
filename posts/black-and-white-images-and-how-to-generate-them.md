@@ -1,6 +1,6 @@
 ---
 title: Black and white images and how to generate them
-date: ""
+date: 2023-11-15T12:34:08.312Z
 tags:
   - post
 ---
