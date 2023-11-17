@@ -26,7 +26,6 @@ Realist Movements aimed to depict stories that “project a slice of life” (Ha
 
 > *“Andre Bazin, proclaimed neo-realism as a cinema of ‘fact’ and ‘reconstituted reportage’ which rejected both dramatic and cinematic conventions and which 'respected' the ontological wholeness of the reality it captured” (Fellini et al., 1987:4)*
 
-
 Naturalism is a way of portraying the subject as it is seen to be in real life, but not necessarily having a political or social message. Naturalistic cinematography is sometimes regarded as a sub-genre of realism. However, it also stands on its own.  
 
 Whilst naturalistic lighting was initially developed in the Realist movements, the trend was taken up and developed on by cinematographers who wanted a more naturalistic image, for stories that did not “focus on social reality” (Hayward, 2017:235) and were not confined to the ideology or aims of the Realist Movements. This was the birth of naturalistic cinematography, which, with time, was incorporated into the mainstream. It was in the quest for naturalism that the techniques of soft lighting, as a means to achieve this, were developed.
@@ -605,143 +604,129 @@ Fig. 28 Latta, J. N. (1968) *Colortran Advert in Journal of the SMPTE* (1968) In
 Fig. 29 *Motivated lighting in Tom Jones* (1953) \[Film Still, DVD] In: Tom Jones London: Woodfall Film Productions. <hr>
 Fig. 30 *Marat/Sade*. (1967) \[Film Still, DVD] In: *Marat/Sade*. Warwickshire, England: Royal Shakespeare Company. <hr>
 Fig. 31 Williams, D. (2018) *Behind the Scenes photo on the Set of _Cries and Whispers*. *\[Photograph] At: \url{https://theasc.com/articles/beyond-the-frame-cries-and-whispers} <hr>
-Fig. 32 _Cries and Whispers*. (1972) \[Film Still, DVD] In: *Cries and Whispers*  Stockholm, Sweden: Cinematograph AB, Svenska Filminstitutet (SFI). \
+Fig. 32 _Cries and Whispers*. (1972) \[Film Still, DVD] In: *Cries and Whispers*  Stockholm, Sweden: Cinematograph AB, Svenska Filminstitutet (SFI).
 
-\pagebreak
+# ﻿Bibliography 
 
-\section{Bibliography}
-\setlength{\parindent}{-0.5cm} 
-\setlength{\parskip}{0.5cm} 
-\setlength{\parskip}{0.1cm} 
-\
-\vspace{-1.5cm}
+*À bout de souffle* (1961) Les Films Impéria, Les Productions Georges de Beauregard, Société Nouvelle de Cinématographie (SNC).
 
-*À bout de souffle* (1961) Directed by Godard, J.-L. \[DVD] Paris: Les Films Impéria.
+*A Man Escaped* (1956) Gaumont, Nouvelles Éditions de Films (NEF).
 
-*A Man Escaped* (1956) Directed by Bresson, R. \[DVD] Paris: Gaumont, Nouvelles Éditions de Films (NEF).
+Allison, D. (2007) *Lighting technology and film style - Lighting - actor, actress, show, tv, director, name, cinema, scene, role, book*. At: <http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Lighting-LIGHTING-TECHNOLOGY-AND-FILM-STYLE.html> (Accessed 22/12/2022).
 
-Allison, D. (2007) *Lighting technology and film style - Lighting - actor, actress, show, tv, director, name, cinema, scene, role, book*. At:     \url{http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Lighting-LIGHTING-TECHNOLOGY-AND-FILM-STYLE.html} (Accessed 22/12/2022).
+*Ashes and Diamonds* (1958) Studio Filmowe Kadr.
 
-*Ashes and Diamonds* Directed by Wajda, A. (1958) \[DVD] Warsaw, Poland: Studio Filmowe Kadr.
+*Black Magic* (1949) Edward Small Productions.
 
-*Black Magic* (1949) Directed by Ratoff, G. \[DVD] New York: Edward Small Productions.
+Box, H. C. (2020) *Set Lighting Technician’s Handbook : Film Lighting Equipment, Practice, and Electrical Distribution*. Routledge. At: <https://www-taylorfrancis-com.ucreative.idm.oclc.org/books/mono/10.4324/9780429422560/set-lighting-technician-handbook-harry-box> (Accessed 02/07/2022).
 
-Box, H. C. (2020) *Set Lighting Technician’s Handbook : Film Lighting Equipment, Practice, and Electrical Distribution*. Routledge. At: \url{https://www-taylorfrancis-com.ucreative.idm.oclc.org/books/mono/10.4324/9780429422560/set-lighting-technician-handbook-harry-box} (Accessed 02/07/2022).
+Burnett, C. (2007) 'Muting the image: lighting and photochemical techniques of Bresson’s cinematographers' In: *Studies in French Cinema* 6 (3) pp.219–230. At: <https://www.tandfonline.com/doi/abs/10.1386/sfci.6.3.219_1> (Accessed 30/05/2022).
 
-Burnett, C. (2007) 'Muting the image: lighting and photochemical techniques of Bresson’s cinematographers' In: *Studies in French Cinema* 6 (3) pp.219–230. At: \url{https://www.tandfonline.com/doi/abs/10.1386/sfci.6.3.219_1} (Accessed 30/05/2022).
+Cagle, C., Dombrowski, L., Schauer, B., Ramaeker, P. and Lucas, C. (2014) *Cinematography*. (s.l.): Rutgers University Press.
 
-Cagle, C., Dombrowski, L., Schauer, B., Ramaeker, P. and Lucas, C. (2014) *Cinematography*. New Brunswick, New Jersey: Rutgers University Press.
+Celli, C. and Cottino-Jones, M. (2007) *A New Guide to Italian Cinema*. (s.l.): Springer.
 
-Celli, C. and Cottino-Jones, M. (2007) *A New Guide to Italian Cinema*. London, United Kingdom: Palgrave Macmillan.
+*Cenere* (1917) Società Anonima Ambrosio.
 
-*Cenere* Directed by Febo, M. [DVD](1917) Turin, Italy: Società Anonima Ambrosio.
+*Cries and Whispers* (1973) Cinematograph AB, Svenska Filminstitutet (SFI).
 
-*Contempt* (1963) Directed by Godard, J.-L. \[DVD] Paris: Rome Paris Films, Les Films Concordia, Compagnia Cinematografica Champion.
+Deakins, R. (2017) *When did soft light become popular?*. At: <https://www.rogerdeakins.com/lighting-2/when-did-soft-light-become-popular/> (Accessed 30/08/2022).
 
-*Cries and Whispers* (1973) Directed by Bergman, I. \[DVD] Stockholm, Sweden: Cinematograph AB, Svenska Filminstitutet (SFI).
+*Diary of a Country Priest* (1951) Union Générale Cinématographique (UGC).
 
-Deakins, R. (2017) *When did soft light become popular?*. At: \url{https://www.rogerdeakins.com/lighting-2/when-did-soft-light-become-popular/} (Accessed 30/08/2022).
+Fellini, F., Bondanella, P. and Gieri, M. (1987) *Strada, La: LA STRADA*. (s.l.): Rutgers University Press.
 
-*Der letzte Mann* (1925) Directed by Murnau, F.W. \[DVD] Berlin, Germany: Universum Film (UFA).
+*Fish Tank* (2009) BBC Films, UK Film Council, Limelight Communication.
 
-*Diary of a Country Priest* (1951) Directed by Bresson, R. \[DVD] Paris: Union Générale Cinématographique.
-
-Fellini, F., Bondanella, P. and Gieri, M. (1987) *Strada, La: LA STRADA*. New Brunswick, New Jersey: Rutgers University Press.
-
-*Fish Tank* (2009) Directed by Andrea, A. \[DVD] London: BBC Films, UK Film Council, Limelight Communication. 
-
-Godard, J.L. (1959) 'Étonnant: Jean Rouch, Moi un Noir' In: *Jean-Luc Godard par Jean-Luc Godard* 1 pp.1950–1984.
+Godard, J.-L. (1959) 'Étonnant: Jean Rouch, Moi un Noir' In: *Jean-Luc Godard par Jean-Luc Godard* 1 pp.1950–1984.
 
 Hallam, J. and Marshment, M. (2000) *Realism and Popular Cinema*. (Illustrated edition) Manchester: Manchester University Press.
 
-Harvard Film Archive (2000) *In the Company of Light: Sven Nykvist*. At: \url{https://harvardfilmarchive.org/programs/in-the-company-of-light-sven-nykvist} (Accessed 30/01/2023).
+Harvard Film Archive (2000) *In the Company of Light: Sven Nykvist*. At: <https://harvardfilmarchive.org/programs/in-the-company-of-light-sven-nykvist> (Accessed 30/01/2023).
 
 Hayward, S. (2017) *Cinema Studies: The Key Concepts*. (5th edition) London ; New York: Routledge.
 
-Hill, S. P. and Minghelli, G. (2014) *Stillness in Motion: Italy, Photography, and the Meanings of Modernity*. Toronto, Canada: University of Toronto Press.
+Hill, S. P. and Minghelli, G. (2014) *Stillness in Motion: Italy, Photography, and the Meanings of Modernity*. (s.l.): University of Toronto Press.
 
-Holben, J. (2020) 'Light Quality 101' In: *American Cinematographer* 101 (10/11) 11/2020 pp.16-20,22,24. At: \url{https://www.proquest.com/docview/2455894566/abstract/B4BB106683044E6FPQ/1}(Accessed 02/09/2022).
+Holben, J. (2020) 'Light Quality 101' In: *American Cinematographer* 101 (10/11) 11/2020 pp.16-20,22,24. At: <https://www.proquest.com/docview/2455894566/abstract/B4BB106683044E6FPQ/1> (Accessed 02/09/2022).
 
-Kemp, R. (2006) 'The Holy Ground' In: *Film Ireland* (108) pp.36–37. At: \url{https://www.proquest.com/docview/194680383/abstract/707B5F93D9744AFPQ/1} (Accessed 09/01/2023).
+Kemp, R. (2006) 'The Holy Ground' In: *Film Ireland* (108) pp.36–37. At: <https://www.proquest.com/docview/194680383/abstract/707B5F93D9744AFPQ/1> (Accessed 09/01/2023).
 
-*La terra trema* (1949) Directed by Visconti, L. \[DVD] Rome: AR.TE.AS Film, Universalia Film.
+*La terra trema* (1949) AR.TE.AS Film, Universalia Film.
 
 Latta, J. N. (1968) 'A Classified Bibliography on Holography and Related Fields (Second Half)' In: *Journal of the SMPTE* 77 (5) pp.540–580.
 
-*Le mépris* (1963) Directed by Godard, J.-L. \[DVD] Paris:  Rome Paris Films, Les Films Concordia, Compagnia Cinematografica Champion.
+*Le mépris* (1963) Rome Paris Films, Les Films Concordia, Compagnia Cinematografica Champion.
 
-*Le petit soldat* (1963) Directed by Godard, J.-L. \[DVD] Paris: Les Productions Georges de Beauregard, Société Nouvelle de Cinématographie (SNC).
+*Le petit soldat* (1963) Les Productions Georges de Beauregard, Société Nouvelle de Cinématographie (SNC).
 
 Malkiewicz, K. (2008) *Film Lighting: Talks with Hollywood’s Cinematographers and Gaffers*. New York: Simon & Schuster.
 
-*Marat/Sade* (1967) Directed by Brook, P. \[DVD] Warwickshire, England: Royal Shakespeare Company.
+*Marat/Sade* (1967) Marat Sade Productions, Royal Shakespeare Company.
 
-Mullen, D. (2012) *History of Hard and Soft Lighting*. At: \url{https://cinematography.com/index.php?/forums/topic/58560-history-of-hard-and-soft-lighting/} (Accessed 24/08/2022).
+Mullen, D. (2012) *History of Hard and Soft Lighting*. At: <https://cinematography.com/index.php?/forums/topic/58560-history-of-hard-and-soft-lighting/> (Accessed 24/08/2022).
 
-Mullen, D. (2017) *When did soft light become popular?*. At: \url{https://www.rogerdeakins.com/lighting-2/when-did-soft-light-become-popular/} (Accessed 30/08/2022).
+Mullen, D. (2017) *When did soft light become popular?*. At: <https://www.rogerdeakins.com/lighting-2/when-did-soft-light-become-popular/> (Accessed 30/08/2022).
 
-Nicholson, W. F. (2010) 'Cinematography and character depiction' In: *Global Media Journal - African Edition* 4 (2) pp.196–211. At: \url{https://journals.co.za/doi/abs/10.10520/EJC34942} (Accessed 23/08/2022).
+Murnau, F. W. (1925) *Der letzte Mann*. IMDb ID: tt0015064.
 
-Nogueira, R. (1977) 'Burel and Bresson' Translated by Milne, T. In: *Monthly Film Bulletin* 46 (1) Winter/1977 p.18. At: \url{https://www.proquest.com/docview/740638071/citation/1EE347DFED6F43F2PQ/1} (Accessed 16/11/2022).
+Nicholson, W. F. (2010) 'Cinematography and character depiction' In: *Global Media Journal - African Edition* 4 (2) pp.196–211. At: <https://journals.co.za/doi/abs/10.10520/EJC34942> (Accessed 23/08/2022).
 
-*Oliver!* (1968) Directed by Reed, C. \[DVD] London: Romulus Films, Warwick Film Productions.
+Nogueira, R. (1977) 'Burel and Bresson' Translated by Milne, T. In: *Monthly Film Bulletin* 46 (1) Winter/1977 p.18. At: <https://www.proquest.com/docview/740638071/citation/1EE347DFED6F43F2PQ/1> (Accessed 16/11/2022).
 
-*Persona* (1967) Directed by Bergman, I. \[DVD] Stockholm, Sweden: AB Svensk Filmindustri.
+*Oliver!* (1968) Romulus Films, Warwick Film Productions.
 
-Petrie, D. (2018) 'A Changing Visual Landscape: British Cinematography in the 1960s' In: *Journal of British Cinema and Television* 15 (2) pp.204–227. At: \url{https://www.euppublishing.com/doi/full/10.3366/jbctv.2018.0415} (Accessed 23/08/2022).
+*Persona* (1967) AB Svensk Filmindustri.
+
+Petrie, D. (2018) 'A Changing Visual Landscape: British Cinematography in the 1960s' In: *Journal of British Cinema and Television* 15 (2) pp.204–227. At: <https://www.euppublishing.com/doi/full/10.3366/jbctv.2018.0415> (Accessed 23/08/2022).
 
 Petrie, D. J. (1996) *The British Cinematographer*. (1st Edition) London: BFI Publishing.
 
-*Pickpocket* (1959) Directed by Bresson, R. \[DVD] Paris: Compagnie Cinématographique de France.
+*Pickpocket* (1959) Compagnie Cinématographique de France.
 
 Piepergerdes, B. J. (2007) 'Re-envisioning the nation: Film neorealism and the postwar Italian condition' In: *ACME: An International Journal for Critical Geographies* 6 (2) pp.231–257.
 
-Roger Deakins (2013) *Controlling Bounced light*. At: \url{https://web.archive.org/web/20130313034308/http://www.deakinsonline.com/forum2/viewtopic.php?f=1&t=2228} (Accessed 20/12/2022).
+Roger Deakins (2013) *Controlling Bounced light*. At: <https://web.archive.org/web/20130313034308/http://www.deakinsonline.com/forum2/viewtopic.php?f=1&t=2228> (Accessed 20/12/2022).
 
-Roger Deakins (2018) *Hard Lights Combined With Soft Lights*. At: \url{https://www.rogerdeakins.com/lighting-2/hard-lights-combined-with-soft-lights} (Accessed 07/03/2020).
+Roger Deakins (2018) *Hard Lights Combined With Soft Lights*. At: <https://www.rogerdeakins.com/lighting-2/hard-lights-combined-with-soft-lights> (Accessed 07/03/2020).
 
-*Rome Open City* (1945) Directed by Rossellini, R. \[DVD] Rome: Excelsa Film.
+*Roma città aperta* (1945) Excelsa Film.
 
-Salomon, M. (2008) 'David Watkin – 1925-2008' In: *La Lettre AFC* 175 At: \url{https://www.afcinema.com/David-Watkin-1925-2008.html} (Accessed 20/01/2023).
+Salomon, M. (2008) 'David Watkin – 1925-2008' In: *La Lettre AFC* 175 At: <https://www.afcinema.com/David-Watkin-1925-2008.html> (Accessed 20/01/2023).
 
-Salt, B. (1992) Film Style and Technology: History and Analysis. (2nd ed.) London: Starword. At: https://archive.org/details/filmstyletechnol0000salt (Accessed 19/11/2022).
+Salt, B. (1992) *Film Style and Technology: History and Analysis*. (2nd ed.) Starword. At: <https://archive.org/details/filmstyletechnol0000salt> (Accessed 19/11/2022).
 
-Schaefer, D. and Salvato, L. (2013) *Masters of Light: Conversations with Contemporary Cinematographers*. Oakland, California: University of California Press.
+Schaefer, D. and Salvato, L. (2013) *Masters of Light: Conversations with Contemporary Cinematographers*. (s.l.): University of California Press.
 
 Shiel, M. (2006) *Italian neorealism: rebuilding the cinematic city*. London New York: Wallflower.
 
-*Sperduti nel buio* (1914) Directed by Martoglio, N. \[DVD] Madrid: Morgana Films.
+*Skyfall* (2012) Metro-Goldwyn-Mayer (MGM), Columbia Pictures, Danjaq.
 
-Temple, M. and Witt, M. (2018) *The French Cinema Book*. London, United Kingdom: Bloomsbury Publishing.
+*Sperduti nel buio* (1914) Morgana Films.
 
-The Foundry (2020) *The Art of Lighting: A history through time | Foundry*. At: \url{https://www.foundry.com/insights/film-tv/art-of-lighting-history} (Accessed 05/09/2022).
+Temple, M. and Witt, M. (2018) *The French Cinema Book*. (s.l.): Bloomsbury Publishing.
 
-*The Knack ...and How to Get It* (1965) Directed by Lester, R. \[DVD] London: Woodfall Film Productions.
+The Foundry (2020) *The Art of Lighting: A history through time | Foundry*. At: <https://www.foundry.com/insights/film-tv/art-of-lighting-history> (Accessed 05/09/2022).
 
-*The Matrix* (1999) Directed by Wachowski, L, Wachowski, L. \[DVD] London: Warner Bros., Village Roadshow Pictures, Groucho Film Partnership.
+*The Knack ...and How to Get It* (1965) Woodfall Film Productions.
 
-*Tom Jones* (1963) Directed by Richardson, T. \[DVD] London: Woodfall Film Productions.
+*The Matrix* (1999) Warner Bros., Village Roadshow Pictures, Groucho Film Partnership.
 
-*Umberto D.* (1952) Directed by De Sica, V. \[Kanopy] At: \url{https://www.kanopy.com/en/ucreative/watch/video/112951}
+*Tom Jones* (1963) Woodfall Film Productions.
 
-Wagstaff, C. (2007) *Italian Neorealist Cinema: An Aesthetic Approach*. Toronto, Canada: University of Toronto Press.
+*Umberto D.* (1952) Dear Film, Rizzoli Film, Produzione Films Vittorio De Sica. At: <https://www.kanopy.com/en/ucreative/watch/video/112951>
 
-Walsh, M. (1977) 'Rome, Open City. The Rise to Power of Louis XIV: Re-evaluating Rossellini' In: *Jump Cut* 15 pp.13–15. At: \url{https://archive.org/details/sim_jump-cut_1977-07_15/page/15/mode/2up} (Accessed 05/01/2023).
+Wagstaff, C. (2007) *Italian Neorealist Cinema: An Aesthetic Approach*. (s.l.): University of Toronto Press.
 
-Watkin, D. (2008) Was Clara Schumann a Fag Hag?: v.2: The Second Volume of an Autobiography Mainly, But Not Entirely, About the Film Business. (2nd ed.) England: Scrutineer Publishing.
+Walsh, M. (1977) 'Rome, Open City. The Rise to Power of Louis XIV: Re-evaluating Rossellini' In: *Jump Cut* 15 pp.13–15. At: <https://archive.org/details/sim_jump-cut_1977-07_15/page/15/mode/2up>
 
-Williams, B. (2008) *Using Space lights*. \[Interview] 24/01/2008 At: \url{https://www.webofstories.com/people/billy.williams/34?o=SH} (Accessed 25/01/2023).
+Watkin, D. (2008) *Was Clara Schumann a Fag Hag?: v.2: The Second Volume of an Autobiography Mainly, But Not Entirely, About the Film Business*. (2nd ed.) England: Scrutineer Publishing.
 
-\pagebreak
-\section{Appendices}
-
-\addcontentsline{toc}{subsection}{Appendix A}
+Williams, B. (2008) *Using Space lights*. 24/01/2008 At: <https://www.webofstories.com/people/billy.williams/34?o=SH> (Accessed 25/01/2023).
 
 ### Appendix A: A definition of realism
 
 “First, it should project a slice of life, it should appear to enter and then leave everyday life. As ‘reality’ it should not use literary adaptations but go for the real. Second, it should focus on social reality: on the poverty and unemployment so rampant in post-war Italy. Third, in order to guarantee this realism, dialogue and language should be natural – even to the point of keeping to the regional dialects. To this effect also, preferably non-professional actors should be used. Fourth, location shooting rather than studio should prevail. And, finally, the shooting should be documentary in style, shot in natural light, with a hand-held camera and using observation and analysis.” (Hayward, 2017:235)
-
-\addcontentsline{toc}{subsection}{Appendix B}
 
 ### Appendix B: Soft Lite Discription
 
