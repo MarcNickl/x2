@@ -53,12 +53,7 @@ The opposite to this would be The Construct in *The Matrix* (1999).  The sourcel
 In order to thoroughly understand the history of soft lighting, a comprehensive examination of the techniques used to generate it and its subsequent effects must be conducted. Jay Holben describes this process well in an article from the American Cinematographer entitled Shot Craft: Light Quality 101 (2020). Holben states that "The closer the source is to your subject, the softer the light will be." (Holben, 2020:17). So “When bringing the source closer to the subject — and thus softening the light — you are increasing the source’s size relative to the subject.” As stated by Roger Deakins on his blog, “Softness is determined by the size of the source relative to the size of the subject.” (Roger Deakins, 2018) 
 As the light appears less directional and more scattered, it has the effect of lowering the contrast of the item being illuminated; this results in lower contrast as seen in Figure \ref{fig:ASC101}.
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 15.08.40.png}
-\caption{\textit{Light Quality 101} (2020)}
-    \label{fig:ASC101}
-\end{figure}
+![Fig. 3: Light Quality 101 (2020)](/media/screenshot-2022-12-01-at-15.08.40.png "Fig. 3: Light Quality 101 (2020)")
 
 Light becomes softer as the photons become more scattered, "the shadow transition becomes longer and more gradual.” (Holben, 2020:17). This results in creating a “nearly shadowless environment” (Holben, 2020:17), because of the light being heavily scattered, so that it is difficult to determine where the light originates from.
 
@@ -66,32 +61,17 @@ When discussing soft light the term ‘quality’ is often used to discuss the �
 
 Photon diffusion, also known as ‘through lighting’ or ‘diffused lighting’, works by having a large piece of partially transparent cloth that doesn't absorb all the light, therefore scattering in with a reduction of intensity soft, This can be seen in Figure \ref{fig:Arrival} on the Set of *Arrival* (2016). 
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2023-02-04 at 14.13.30.jpg}
-\caption{ Example of diffused lighting \textit{Arrival} (2016)}
-    \label{fig:Arrival}
-\end{figure}
+![Fig. 4: Example of diffused lighting Arrival (2016)](/media/screenshot-2023-02-04-at-14.13.30.jpg "Fig. 4: Example of diffused lighting Arrival (2016)")
 
 The other way is diffuse reflection, also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light. An example of bouncing light is seen from a Behind the scenes photo from *Skyfall* (2012) in Figure \ref{fig:Skyfall}.
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/_Zettlr Notes.jpg}
-\caption{\textit{Skyfall: MI6 Under Siege} Example of Bounce lighting (2021)}
-    \label{fig:Skyfall}
-\end{figure}
+![Fig. 5: Skyfall: MI6 Under Siege Example of Bounce lighting (2021)](/media/_zettlr-notes.jpg "Fig. 5: Skyfall: MI6 Under Siege Example of Bounce lighting (2021)")
 
 One of the main benefits of using soft light for production is that “soft lighting is more generalised in a space allowing actors to move more freely, or for the blocking to be changed at the last minute.” (Mullen, 2012). This “would permit shooting in all directions without having to choreograph the movement and position of the lighting unit, therefore speeding up production.” (Salt 1983:327)  Thus faster turnarounds for filming and a more natural performance is possible as the actors is not restricted to their marks. 
 
 Other than its benefits to the look of the film, soft lighting produces “more flattering effects” (Allison, 2007) iin facial lighting, as blemishes on the actor’s face are hidden. This is due to the lower contrast nature of soft light. This was especially important during the star system of the 1910’s where it was “ever more important to make the actors look attractive” (Allison, 2007). This was often achieved by bouncing light to “\[ensure] there are no harsh shadows on the person or object being lit” (The Foundry, 2020) as seen in Figure \ref{fig:EBounce} where a person can be seen holding a bounce card in the centre of frame.
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/img20230109_14111331 copy.pdf}
-\caption{American Film Manufacturing Company (1992)}
-    \label{fig:EBounce}
-\end{figure}
+![Fig. 6: American Film Manufacturing Company (1992)](/media/img20230109_14111331-copy.jpg "Fig. 6: American Film Manufacturing Company (1992)")
 
 ## Drawbacks of Soft Lighting
 
@@ -101,9 +81,11 @@ One of the inherent drawbacks to using softer lighting is the power draw, - “t
 
 ‘Exposure compensation’ is when you either make the lights brighter or you make the camera/film stock more sensitive. This means that as film speeds got faster, less light needed to be used, therefore compensating for the inefficiencies that happen when you soften light. 
 
-\pagebreak
-
 In the silent era, soft light was achieved by using light fixtures called Cooper-Hewitt lamps as seen in Figure \ref{fig:CH}.  They are “gas-discharge fixtures in tubes, a cross between a mercury vapor street lamp and a fluorescent tube, \[which] produced a soft light.” (Mullen, 2012). But a lack of efficiency and “Sound killed the use of the noisy Cooper-Hewitts” (Mullen, 2012).  They were “replaced by banks of tungsten lamps” (Mullen, 2012), which were more powerful and could achieve the same soft look when directed through “spun glass or silks” (Mullen, 2012).  However, the power output they were able to achieve was still inadequate for indirect lighting. One of the main reasons for the shift “from 1.25 kW to 5kW” (Salt, 1992:255) that happened during the late 50s and was “prompted in part by the European use of bounce lighting” (Salt, 1992:255). 
+
+
+
+![Fig. 7: Cooper-Hewitt lamps (2017)](/media/cooperhewitt.jpg "Fig. 7: Cooper-Hewitt lamps (2017)")
 
 \begin{figure}\[H]
     \centering
@@ -606,7 +588,7 @@ Fig. 30 *Marat/Sade*. (1967) \[Film Still, DVD] In: *Marat/Sade*. Warwickshire, 
 Fig. 31 Williams, D. (2018) *Behind the Scenes photo on the Set of _Cries and Whispers*. *\[Photograph] At: \url{https://theasc.com/articles/beyond-the-frame-cries-and-whispers} <hr>
 Fig. 32 _Cries and Whispers*. (1972) \[Film Still, DVD] In: *Cries and Whispers*  Stockholm, Sweden: Cinematograph AB, Svenska Filminstitutet (SFI).
 
-# ﻿Bibliography 
+# ﻿Bibliography
 
 *À bout de souffle* (1961) Les Films Impéria, Les Productions Georges de Beauregard, Société Nouvelle de Cinématographie (SNC).
 
