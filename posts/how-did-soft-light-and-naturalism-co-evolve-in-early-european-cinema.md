@@ -87,18 +87,9 @@ In the silent era, soft light was achieved by using light fixtures called Cooper
 
 ![Fig. 7: Cooper-Hewitt lamps (2017)](/media/cooperhewitt.jpg "Fig. 7: Cooper-Hewitt lamps (2017)")
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/cooperhewitt.jpg}
-\caption{Cooper-Hewitt lamps (2017)}
-    \label{fig:CH}
-\end{figure}
-
 Another issue is caused by the nature of soft light. Due to the increased size of the source, the light becomes less controllable as it scatters everywhere.  In a blog post Roger Deakins has stated that “the control of a bounce source is often an issue” (Roger Deakins, 2013) and that he uses “a system of 'louvers' which I create using multiple small flags” (Roger Deakins, 2013), to control the spill off of the light. 
 
 As Vilmos Zsigmond ASC states, the use of too much soft light can also result in the image lacking texture and the look “just becomes boring. The difficult thing is really to light softly but to create a contrast at the same time. This is a difficult thing to do.” (Malkiewicz, 2008:85) The overly soft look goes against naturalism, becoming more of a stylised look.
-
-\pagebreak
 
 ## Soft Lighting before Realism
 
