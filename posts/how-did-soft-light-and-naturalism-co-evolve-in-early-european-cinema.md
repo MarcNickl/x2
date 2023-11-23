@@ -97,8 +97,6 @@ Another issue is caused by the nature of soft light. Due to the increased size o
 
 As Vilmos Zsigmond ASC states, the use of too much soft light can also result in the image lacking texture and the look “just becomes boring. The difficult thing is really to light softly but to create a contrast at the same time. This is a difficult thing to do.” (Malkiewicz, 2008:85) The overly soft look goes against naturalism, becoming more of a stylised look.
 
-
-
 ## Soft Lighting before Realism
 
 This section briefly examines the use of soft lighting in films that are not considered to be naturalistic, however, still visibly used soft lighting for an alternative effect.
@@ -134,10 +132,7 @@ This section will examine the impact of Italian Neorealism, which had a major in
 
 The focus will be on two significant cinematographers  from the 1940 to 1950 time period, - Ubaldo Arata and G.R. Aldo, also known as Aldo Graziati. Both cinematographers have worked on films that had a major impact on the evolution of soft light. The time period represents the peak of Italy’s “socially conscious film makers” (Deakins, 2017). Due to limited resources, these filmmakers often used “existing situations as a backdrop” (Deakins, 2017), which forced them to develop “radically different ways to light and shoot” (Deakins, 2017). 
 
-\begin{quote} 
-\centering 
-\emph{“The working methods of neorealism offered a way to produce films without large financial resources.”} (Celli and Cottino-Jones, 2007:71)
-\end{quote}
+> "The working methods of neorealism offered a way to produce films without large financial resources.” (Celli and Cottino-Jones, 2007:71)
 
 ## Ubaldo Arata
 
