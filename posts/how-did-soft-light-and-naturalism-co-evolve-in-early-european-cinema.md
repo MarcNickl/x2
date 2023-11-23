@@ -67,8 +67,6 @@ Photon diffusion, also known as ‘through lighting’ or ‘diffused lighting�
 
 *Fig. 4: Example of diffused lighting Arrival (2016)*
 
-
-
 The other way is diffuse reflection, also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light. An example of bouncing light is seen from a Behind the scenes photo from *Skyfall* (2012) in Figure \ref{fig:Skyfall}.
 
 ![](/media/_zettlr-notes.jpg)
@@ -93,9 +91,13 @@ In the silent era, soft light was achieved by using light fixtures called Cooper
 
 ![Fig. 7: Cooper-Hewitt lamps (2017)](/media/cooperhewitt.jpg "Fig. 7: Cooper-Hewitt lamps (2017)")
 
+*Fig. 7: Cooper-Hewitt lamps (2017)*
+
 Another issue is caused by the nature of soft light. Due to the increased size of the source, the light becomes less controllable as it scatters everywhere.  In a blog post Roger Deakins has stated that “the control of a bounce source is often an issue” (Roger Deakins, 2013) and that he uses “a system of 'louvers' which I create using multiple small flags” (Roger Deakins, 2013), to control the spill off of the light. 
 
 As Vilmos Zsigmond ASC states, the use of too much soft light can also result in the image lacking texture and the look “just becomes boring. The difficult thing is really to light softly but to create a contrast at the same time. This is a difficult thing to do.” (Malkiewicz, 2008:85) The overly soft look goes against naturalism, becoming more of a stylised look.
+
+
 
 ## Soft Lighting before Realism
 
@@ -103,12 +105,9 @@ This section briefly examines the use of soft lighting in films that are not con
 
 Soft light has been used in cinema since the silent era. *Enoch Arden* (1911) was one of the first to use “soft lighting on faces as a technique” (The Foundry, 2020). Soft light tended to be used in correlation with “happier and upbeat scenes” (The Foundry, 2020) representing how the character is feeling. *Der letzte Mann* (1925) was shot by Karl Freund using soft light, long before Italian Neorealism, however, one wouldn't class *Der letzte Mann* (1925) as being a naturalistic film, - as can be seen in Figure \ref{fig:Der letzte Mann}
 
-\begin{figure}\[H]
-    \centering
-\includegraphics\[width=0.45\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/VNS6EA9W.jpg}
-\caption{Use of soft light in \textit{Der letzte Mann} (1925)}
-    \label{fig:Der letzte Mann}
-\end{figure}
+![](/media/vns6ea9w.jpg)
+
+*Fig. 8: Use of soft light in Der letzte Mann (1925)*
 
 It's also important to note that one of the ways naturalism differs from more traditional cinema is with its use of motivated lighting. “Lighting is regarded as being motivated when it accords to the natural behaviour of light.” (Nicholson, 2010:197) This can be achieved by using soft light that matches the ‘quality’ of what it's trying to replicate. 
 
@@ -119,6 +118,8 @@ Another way to use motivated lighting is when the origin of the light is coming 
 The Realist movements were a tremendous catalyst for natural lighting as the aim was to portray daily life as it is.  “Since the construction of everyday life depends upon an apparent stripping away of artifice, choices about lighting and film stock aim to replicate the appearance of genres closely associated with the everyday and the ordinary.” (Hallam and Marshment, 2000:126)
 
 Before the main movement that we know of today as Italian neorealism, there were films like *Cenere* (1917), seen in Figure \ref{fig:Cenere} and *Sperduti nel buio* (1914).  These early realist films used only available lighting to achieve their look. This started to evolve after the second world war, when there was a greater need to tell more socially conscious stories through film.  
+
+![]()
 
 \begin{figure}\[H]
     \centering
