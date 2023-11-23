@@ -55,6 +55,8 @@ As the light appears less directional and more scattered, it has the effect of l
 
 ![Fig. 3: Light Quality 101 (2020)](/media/screenshot-2022-12-01-at-15.08.40.png "Fig. 3: Light Quality 101 (2020)")
 
+*Fig. 3: Light Quality 101 (2020)*
+
 Light becomes softer as the photons become more scattered, "the shadow transition becomes longer and more gradual.” (Holben, 2020:17). This results in creating a “nearly shadowless environment” (Holben, 2020:17), because of the light being heavily scattered, so that it is difficult to determine where the light originates from.
 
 When discussing soft light the term ‘quality’ is often used to discuss the “nature of the transition between light and shadow” (Holben, 2020:16).  Another term to describe the same phenomenon is ‘Fall Off’ also referred to as ‘shadow falloff’. There are two primary ways of increasing the size of the source and increasing quality of light. One of them is photon diffusion, the other is diffuse reflection. 
@@ -63,9 +65,15 @@ Photon diffusion, also known as ‘through lighting’ or ‘diffused lighting�
 
 ![Fig. 4: Example of diffused lighting Arrival (2016)](/media/screenshot-2023-02-04-at-14.13.30.jpg "Fig. 4: Example of diffused lighting Arrival (2016)")
 
+*Fig. 4: Example of diffused lighting Arrival (2016)*
+
+
+
 The other way is diffuse reflection, also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light. An example of bouncing light is seen from a Behind the scenes photo from *Skyfall* (2012) in Figure \ref{fig:Skyfall}.
 
-![Fig. 5: Skyfall: MI6 Under Siege Example of Bounce lighting (2021)](/media/_zettlr-notes.jpg "Fig. 5: Skyfall: MI6 Under Siege Example of Bounce lighting (2021)")
+![](/media/_zettlr-notes.jpg)
+
+*Fig. 5: Skyfall: MI6 Under Siege Example of Bounce lighting (2021)*
 
 One of the main benefits of using soft light for production is that “soft lighting is more generalised in a space allowing actors to move more freely, or for the blocking to be changed at the last minute.” (Mullen, 2012). This “would permit shooting in all directions without having to choreograph the movement and position of the lighting unit, therefore speeding up production.” (Salt 1983:327)  Thus faster turnarounds for filming and a more natural performance is possible as the actors is not restricted to their marks. 
 
@@ -82,8 +90,6 @@ One of the inherent drawbacks to using softer lighting is the power draw, - “t
 ‘Exposure compensation’ is when you either make the lights brighter or you make the camera/film stock more sensitive. This means that as film speeds got faster, less light needed to be used, therefore compensating for the inefficiencies that happen when you soften light. 
 
 In the silent era, soft light was achieved by using light fixtures called Cooper-Hewitt lamps as seen in Figure \ref{fig:CH}.  They are “gas-discharge fixtures in tubes, a cross between a mercury vapor street lamp and a fluorescent tube, \[which] produced a soft light.” (Mullen, 2012). But a lack of efficiency and “Sound killed the use of the noisy Cooper-Hewitts” (Mullen, 2012).  They were “replaced by banks of tungsten lamps” (Mullen, 2012), which were more powerful and could achieve the same soft look when directed through “spun glass or silks” (Mullen, 2012).  However, the power output they were able to achieve was still inadequate for indirect lighting. One of the main reasons for the shift “from 1.25 kW to 5kW” (Salt, 1992:255) that happened during the late 50s and was “prompted in part by the European use of bounce lighting” (Salt, 1992:255). 
-
-
 
 ![Fig. 7: Cooper-Hewitt lamps (2017)](/media/cooperhewitt.jpg "Fig. 7: Cooper-Hewitt lamps (2017)")
 
