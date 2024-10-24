@@ -1,5 +1,5 @@
 ---
-title: A website how-to for broke filmmakers
+title: A website how-to for broke filmmakers.
 date: 2024-10-24T12:37:32.306Z
 tags:
   - post
