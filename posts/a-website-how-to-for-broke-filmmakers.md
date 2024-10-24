@@ -58,11 +58,25 @@ Because I have recommended 3 different website builders, I will be light on info
 
 ## Step 1 - Building a site and exporting it.
 
+* Nav
+* Headed 
+* Content 
+* Footer
+* Favicons
+* Exporting
+* Dont add too many images
+
 # Step 2 - Setting up a GitHub Repo and uploading
+
+* Github Desktop
 
 # Step 3 - Netify
 
+* Setting up a project
+
 # Step 4 - Domains
+
+* DNS and linking to netify
 
 # Tips and Tricks
 
