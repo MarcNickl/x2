@@ -54,17 +54,37 @@ Finally, CloudFlare is the cheapest place I’ve found to buy a domain for aroun
 
 I will try to explain the core concepts of getting a website online.
 
-Because I have recommended 3 different website builders, I will be light on information as not everything will apply to everyone. I will try to find a couple of decent YouTube channels and put them down below. - there is also google if you’re stuck :)
+Because I have recommended 3 different website builders, I will be light on information focusing loosely on bootstrap as a framework, shared by blocs and bootstrap studio, this should hopefully cover the major elements. I will try to find a couple of decent YouTube channels and put them down below. - there is also google if you’re stuck :)
 
 ## Step 1 - Building a site and exporting it.
 
-* Nav
-* Headed 
-* Content 
-* Footer
-* Favicons
-* Exporting
-* Dont add too many images
+### Step 1.1 -  Website set up and themes
+
+### Step 1.2 - Parts of a website
+
+![](/media/screenshot-2024-10-28-at-13.08.34.png)
+
+#### Navbar and Header
+
+#### Content
+
+##### Rows
+
+##### Columns
+
+##### Embeds
+
+#### Footer
+
+#### Favicons]
+
+![](/media/screenshot-2024-10-28-at-13.24.42.png)
+
+#### Exporting
+
+Avoid Lazy exporting
+
+* Dont add too many images and webp as a format
 
 # Step 2 - Setting up a GitHub Repo and uploading
 
@@ -87,3 +107,5 @@ Because I have recommended 3 different website builders, I will be light on info
 Use Zoho mail - it’s free and you get an email address with your domain name attached
 
 # Resources
+
+*
