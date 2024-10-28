@@ -80,13 +80,13 @@ Because I have recommended 3 different website builders, I will be light on info
 
 Tiny icon that makes a website look a tad bit cooler
 
-![](/media/screenshot-2024-10-28-at-13.24.42.png)
+![](/media/screenshot-2024-10-28-at-13.24.42.png){ width: 200px; }
 
 D﻿o add or modify the favicon - it tends to be set by default as the website builders logo.
 
 T﻿o set it up in blocs its as simple as going to the settings and adding your own. - do make sure to use a square image otherwire blocs will streach it to fit.
 
-![](/media/screenshot-2024-10-28-at-13.51.57.png)
+![](/media/screenshot-2024-10-28-at-13.51.57.png) { width: 200px; }
 
 # Step 2 - Setting up a GitHub Repo and uploading
 
@@ -101,7 +101,7 @@ Going back to  site builder
 Matching the export directory to GitHub Desktop
 Avoid Lazy exporting
 
-![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs")
+![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs") { width: 200px; }
 
 * Don't add too many images and webp as a format
 
