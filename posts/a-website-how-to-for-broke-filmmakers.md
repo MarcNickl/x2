@@ -80,7 +80,7 @@ Because I have recommended 3 different website builders, I will be light on info
 
 Tiny icon that makes a website look a tad bit cooler
 
-![](/media/screenshot-2024-10-28-at-13.24.42.png){ width: 200px; }
+![](/media/screenshot-2024-10-28-at-13.24.42.png)
 
 D﻿o add or modify the favicon - it tends to be set by default as the website builders logo.
 
@@ -101,7 +101,7 @@ Going back to  site builder
 Matching the export directory to GitHub Desktop
 Avoid Lazy exporting
 
-![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs") { width: 200px; }
+![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs") 
 
 * Don't add too many images and webp as a format
 
