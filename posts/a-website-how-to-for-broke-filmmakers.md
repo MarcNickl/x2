@@ -58,7 +58,7 @@ Because I have recommended 3 different website builders, I will be light on info
 
 ## Step 1 - Building a site and exporting it.
 
-### Step 1.1 -  Website set up and themes
+### Step 1.1 -  Website set up and Themes
 
 ### Step 1.2 - Parts of a website
 
@@ -78,17 +78,34 @@ Because I have recommended 3 different website builders, I will be light on info
 
 #### Favicons
 
+Tiny icon that makes a website look a tad bit cooler
+
 ![](/media/screenshot-2024-10-28-at-13.24.42.png)
 
-#### Exporting
+D﻿o add or modify the favicon - it tends to be set by default as the website builders logo.
 
-Avoid Lazy exporting
+T﻿o set it up in blocs its as simple as going to the settings and adding your own. - do make sure to use a square image otherwire blocs will streach it to fit.
 
-* Dont add too many images and webp as a format
+![](/media/screenshot-2024-10-28-at-13.51.57.png)
 
 # Step 2 - Setting up a GitHub Repo and uploading
 
-* Github Desktop
+## Step 2.1 - GitHub
+
+## Step 2.2 - GitHub desktop Setup
+
+## Step 2.3 Exporting
+
+Going back to  site builder
+
+Matching the export directory to GitHub Desktop
+Avoid Lazy exporting
+
+![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs")
+
+* Don't add too many images and webp as a format
+
+## Step 2.4 - GitHub Desktop Upload
 
 # Step 3 - Netify
 
