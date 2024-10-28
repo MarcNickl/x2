@@ -86,7 +86,8 @@ D﻿o add or modify the favicon - it tends to be set by default as the website b
 
 T﻿o set it up in blocs its as simple as going to the settings and adding your own. - do make sure to use a square image otherwire blocs will streach it to fit.
 
-<img src="/media/screenshot-2024-10-28-at-13.51.57.png" width=400 <Some text>  >
+<img src="/media/screenshot-2024-10-28-at-13.51.57.png" width=400 > <p>Your text goes here.</p>
+
 
 
 # Step 2 - Setting up a GitHub Repo and uploading
