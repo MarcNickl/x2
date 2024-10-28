@@ -86,9 +86,8 @@ D﻿o add or modify the favicon - it tends to be set by default as the website b
 
 T﻿o set it up in blocs its as simple as going to the settings and adding your own. - do make sure to use a square image otherwire blocs will streach it to fit.
 
-<img src="/media/screenshot-2024-10-28-at-13.51.57.png" width=250 >
+<img src="/media/screenshot-2024-10-28-at-13.51.57.png" width=400 <p>Some text</p>  >
 
-![](/media/screenshot-2024-10-28-at-13.51.57.png) { width: 200px; }
 
 # Step 2 - Setting up a GitHub Repo and uploading
 
@@ -103,7 +102,7 @@ Going back to  site builder
 Matching the export directory to GitHub Desktop
 Avoid Lazy exporting
 
-![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs") 
+![](/media/screenshot-2024-10-28-at-13.32.34.png "Example from Blocs")
 
 * Don't add too many images and webp as a format
 
