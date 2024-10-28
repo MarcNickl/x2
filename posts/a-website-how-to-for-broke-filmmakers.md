@@ -118,7 +118,11 @@ Avoid Lazy exporting
 
 # Step 4 - Domains
 
-* DNS and linking to netify
+## Step 4.1 - Cloudlfare Nameserver Settings
+
+#﻿# Step 4.2 - Adding Nameserver Settings to Netify
+
+
 
 # Tips and Tricks
 
