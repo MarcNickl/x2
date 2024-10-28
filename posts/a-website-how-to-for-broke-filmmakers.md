@@ -80,7 +80,7 @@ Because I have recommended 3 different website builders, I will be light on info
 
 Tiny icon that makes a website look a tad bit cooler
 
-<img src="/media/screenshot-2024-10-28-at-13.24.42.png" width=400 > <p><center>Example from Blocs</center></p>
+<img src="/media/screenshot-2024-10-28-at-13.24.42.png" width=400 > 
 
 
 D﻿o add or modify the favicon - it tends to be set by default as the website builders logo.
