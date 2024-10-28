@@ -82,15 +82,11 @@ Tiny icon that makes a website look a tad bit cooler
 
 <img src="/media/screenshot-2024-10-28-at-13.24.42.png" width=400 > 
 
-
 D﻿o add or modify the favicon - it tends to be set by default as the website builders logo.
 
 T﻿o set it up in blocs its as simple as going to the settings and adding your own. - do make sure to use a square image otherwire blocs will streach it to fit.
 
 <img src="/media/screenshot-2024-10-28-at-13.51.57.png" width=400 > <p><center>Example from Blocs</center></p>
-
-
-
 
 # Step 2 - Setting up a GitHub Repo and uploading
 
@@ -107,7 +103,6 @@ Avoid Lazy exporting
 
 <img src="/media/screenshot-2024-10-28-at-13.32.34.png" width=400 > <p><center>Example from Blocs</center></p>
 
-
 * Don't add too many images and webp as a format
 
 ## Step 2.4 - GitHub Desktop Upload
@@ -120,9 +115,7 @@ Avoid Lazy exporting
 
 ## Step 4.1 - Cloudlfare Nameserver Settings
 
-#﻿# Step 4.2 - Adding Nameserver Settings to Netify
-
-
+\#﻿# Step 4.2 - Adding Nameserver Settings to Netify
 
 # Tips and Tricks
 
@@ -134,4 +127,4 @@ Use Zoho mail - it’s free and you get an email address with your domain name a
 
 # Resources
 
-*
+* <https://docs.netlify.com/domains-https/custom-domains/>
