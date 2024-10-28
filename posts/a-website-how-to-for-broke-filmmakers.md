@@ -76,7 +76,7 @@ Because I have recommended 3 different website builders, I will be light on info
 
 #### Footer
 
-#### Favicons]
+#### Favicons
 
 ![](/media/screenshot-2024-10-28-at-13.24.42.png)
 
