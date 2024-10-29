@@ -11,11 +11,13 @@ tags:
 
 # Fundamentals
 
-## Can’s and cant’s
+## Can’s and Cannot’s
 
 The main reason it is cheap is that it’s a static website. This means that it is basically an interactive PowerPoint presentation. This makes it perfect as a portfolio piece or a blog. But little else like.
 
 ## Tools and services used
+
+O﻿ne benifit is that all the services are interchangable and can swaped for a diffrent service if a companys pricing policies change this gives way more freedom compaired to being reliant on one system.
 
 There are 4 key components going into this method:
 
@@ -115,7 +117,7 @@ Avoid Lazy exporting
 
 ## Step 4.1 - Cloudlfare Nameserver Settings
 
-\#﻿# Step 4.2 - Adding Nameserver Settings to Netify
+#﻿# Step 4.2 - Adding Nameserver Settings to Netify
 
 # Tips and Tricks
 
