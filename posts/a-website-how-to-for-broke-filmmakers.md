@@ -126,14 +126,23 @@ N﻿ow you should see that a bunch of code has been added. Code that is added is
 
 Y﻿ou'll need to write a summery this will be your title for this bunch of changes. Depending on your OCD you'll be acurate and this will be helful or a bunch of gibberish is also ok.
 
-
 <img src="/media/screenshot-2024-10-29-at-12.11.57.png" width=400 > <p><center>P﻿ushing code</center></p>
 
 O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. In the future when updating your website this is all you need to do. Netify will handle its self.
 
-
-
 # Step 3 - Netify
+
+<https://www.netlify.com/>
+
+## Step 3.1 - A new Project
+
+
+
+## S﻿tep 3.2 - 
+
+
+
+
 
 * Setting up a project
 
@@ -141,7 +150,7 @@ O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. I
 
 ## Step 4.1 - Cloudlfare Nameserver Settings
 
-#﻿# Step 4.2 - Adding Nameserver Settings to Netify
+\#﻿# Step 4.2 - Adding Nameserver Settings to Netify
 
 # Tips and Tricks
 
@@ -150,6 +159,12 @@ O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. I
 # Bonus - EMAIL
 
 Use Zoho mail - it’s free and you get an email address with your domain name attached
+
+# F﻿uture
+
+I﻿ would like to spend some time working on a CMS (Content Management System) system that totally removes the need for the website builder after the initial stages.
+
+A﻿LSO if you the reader figures out a better workflow please get in touch i would love to make the process more optimised. 😁
 
 # Resources
 
