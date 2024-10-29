@@ -17,7 +17,7 @@ The main reason it is cheap is that it’s a static website. This means that it 
 
 ## Tools and services used
 
-O﻿ne benifit is that all the services are interchangable and can swaped for a diffrent service if a companys pricing policies change this gives way more freedom compaired to being reliant on one system.
+O﻿ne benefit is that all the services are interchangeable and can swapped for a different service if a company’s pricing policies change. This gives way more freedom compared to being reliant on one system.
 
 There are 4 key components going into this method:
 
@@ -94,20 +94,38 @@ T﻿o set it up in blocs its as simple as going to the settings and adding your 
 
 ## Step 2.1 - GitHub
 
+In theory its possible to completely skip Github as a service and directly upload the website to Netify but GitHub offers a rollback feature if there is a mistake as well as keeps track of all the changes done.
+
+When you have a GitHub account set up. You'll need to make a repository. Just make sure to give it a funny name and make it private.
+
+\-﻿ <https://github.com/>
+
 ## Step 2.2 - GitHub desktop Setup
+
+T﻿hen you'll need to download github desktop. This makes it really easy in the future to update the website. 
+
+\-﻿ <https://desktop.github.com/download/>
+
+W﻿hen GitHub is installed you can clone/sync the reprository that you've made. Just Select a Location that is easy to find. 'Documents' is usually a nice place.
+
+
 
 ## Step 2.3 Exporting
 
-Going back to  site builder
+Going back to site builder. You are ready to export the website as code. Its important to export the code to the same location as the folder created by GitHub Desktop. This enables the program to detect changes and upload the nesesary code.
 
-Matching the export directory to GitHub Desktop
-Avoid Lazy exporting
+I﻿n the export Settings I would recomend selecting the convert to 'webp' format as this reduces bandwith and makes your website load faster.
+
+I﻿f in the future you notice your website only load some parts i would disable lazy loading too.
 
 <img src="/media/screenshot-2024-10-28-at-13.32.34.png" width=400 > <p><center>Example from Blocs</center></p>
 
-* Don't add too many images and webp as a format
 
 ## Step 2.4 - GitHub Desktop Upload
+
+N﻿ow you should see that a bunch of code has been added. Code that is added is indicated in green and code that has been removed is indicated in red.
+
+
 
 # Step 3 - Netify
 
@@ -117,7 +135,7 @@ Avoid Lazy exporting
 
 ## Step 4.1 - Cloudlfare Nameserver Settings
 
-#﻿# Step 4.2 - Adding Nameserver Settings to Netify
+\#﻿# Step 4.2 - Adding Nameserver Settings to Netify
 
 # Tips and Tricks
 
