@@ -145,6 +145,7 @@ O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. I
 
 
 * Setting up a project
+*
 
 # Step 4 - Domains
 
