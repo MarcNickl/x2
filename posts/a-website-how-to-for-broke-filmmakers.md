@@ -108,8 +108,6 @@ T﻿hen you'll need to download github desktop. This makes it really easy in the
 
 W﻿hen GitHub is installed you can clone/sync the reprository that you've made. Just Select a Location that is easy to find. 'Documents' is usually a nice place.
 
-
-
 ## Step 2.3 Exporting
 
 Going back to site builder. You are ready to export the website as code. Its important to export the code to the same location as the folder created by GitHub Desktop. This enables the program to detect changes and upload the nesesary code.
@@ -120,10 +118,18 @@ I﻿f in the future you notice your website only load some parts i would disable
 
 <img src="/media/screenshot-2024-10-28-at-13.32.34.png" width=400 > <p><center>Example from Blocs</center></p>
 
-
 ## Step 2.4 - GitHub Desktop Upload
 
 N﻿ow you should see that a bunch of code has been added. Code that is added is indicated in green and code that has been removed is indicated in red.
+
+Y﻿ou'll need to write a summery this will be your title for this bunch of changes. Depending on your OCD you'll be acurate and this will be helful or a bunch of gibberish is also ok.
+
+<img src="/media/screenshot-2024-10-29-at-12.09.24.png" width=400 > <p><center>G﻿etting code ready to commit</center></p>
+
+
+<img src="/media/screenshot-2024-10-29-at-12.11.57.png" width=400 > <p><center>P﻿ushing code</center></p>
+P﻿ushing code
+
 
 
 
