@@ -122,14 +122,14 @@ I﻿f in the future you notice your website only load some parts i would disable
 
 N﻿ow you should see that a bunch of code has been added. Code that is added is indicated in green and code that has been removed is indicated in red.
 
-Y﻿ou'll need to write a summery this will be your title for this bunch of changes. Depending on your OCD you'll be acurate and this will be helful or a bunch of gibberish is also ok.
-
 <img src="/media/screenshot-2024-10-29-at-12.09.24.png" width=400 > <p><center>G﻿etting code ready to commit</center></p>
+
+Y﻿ou'll need to write a summery this will be your title for this bunch of changes. Depending on your OCD you'll be acurate and this will be helful or a bunch of gibberish is also ok.
 
 
 <img src="/media/screenshot-2024-10-29-at-12.11.57.png" width=400 > <p><center>P﻿ushing code</center></p>
-P﻿ushing code
 
+O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. In the future when updating your website this is all you need to do. Netify will handle its self.
 
 
 
@@ -141,7 +141,7 @@ P﻿ushing code
 
 ## Step 4.1 - Cloudlfare Nameserver Settings
 
-\#﻿# Step 4.2 - Adding Nameserver Settings to Netify
+#﻿# Step 4.2 - Adding Nameserver Settings to Netify
 
 # Tips and Tricks
 
