@@ -8,16 +8,17 @@ tags:
 
 * T﻿ake money away from WIX, Squarespace and other extortionately expensive services.
 * A desire to get people to build stuff.
+* R﻿educe some of the complexity traditionaly driving people to pay for 'all in one services'
 
 # Fundamentals
 
 ## Can’s and Cannot’s
 
-The main reason it is cheap is that it’s a static website. This means that it is basically an interactive PowerPoint presentation. This makes it perfect as a portfolio piece or a blog. But little else like.
+The main reason it’s inexpensive is that it’s a static website, essentially an interactive PowerPoint presentation. This makes it ideal for a portfolio or blog, but not much else.
 
 ## Tools and services used
 
-O﻿ne benefit is that all the services are interchangeable and can swapped for a different service if a company’s pricing policies change. This gives way more freedom compared to being reliant on one system.
+One benefit is that all the services are interchangeable and can be swapped for alternatives if a company’s pricing policies change. This provides much more freedom compared to relying on a single system.
 
 There are 4 key components going into this method:
 
@@ -42,7 +43,7 @@ All of these tools do NOT rely on a subscription model. And could in theory be a
 
 ### Code Repository
 
-GitHub is really the only contender here, although there are other available. This is where the code is stored and accessible to Netify. As well as allowing to roll back code to a previous version if a mistake was made.
+GitHub is really the primary option here, although other alternatives exist. It serves as the storage for the code, which is accessible to Netlify, and also allows code to be rolled back to a previous version if needed.
 
 ### Content Delivery Network
 
@@ -56,7 +57,7 @@ Finally, CloudFlare is the cheapest place I’ve found to buy a domain for aroun
 
 I will try to explain the core concepts of getting a website online.
 
-Because I have recommended 3 different website builders, I will be light on information focusing loosely on bootstrap as a framework, shared by blocs and bootstrap studio, this should hopefully cover the major elements. I will try to find a couple of decent YouTube channels and put them down below. - there is also google if you’re stuck :)
+Since I’ve recommended three different website builders, I’ll keep the information concise, focusing primarily on Bootstrap as a shared framework between Blocs and Bootstrap Studio. This should cover the major elements. I’ll also list a few good YouTube channels below for further guidance—or, of course, you can always turn to Google if you’re stuck :)
 
 ## Step 1 - Building a site and exporting it.
 
@@ -110,11 +111,11 @@ W﻿hen GitHub is installed you can clone/sync the reprository that you've made.
 
 ## Step 2.3 Exporting
 
-Going back to site builder. You are ready to export the website as code. Its important to export the code to the same location as the folder created by GitHub Desktop. This enables the program to detect changes and upload the nesesary code.
+When you’re ready to export the website as code, be sure to export it to the same location as the folder created by GitHub Desktop. This allows the program to detect changes and upload only the necessary code.
 
-I﻿n the export Settings I would recomend selecting the convert to 'webp' format as this reduces bandwith and makes your website load faster.
+In the export settings, I recommend selecting the option to convert images to ‘webp’ format, as this reduces bandwidth usage and speeds up your website’s loading time.
 
-I﻿f in the future you notice your website only load some parts i would disable lazy loading too.
+If you notice that only some parts of your website load in the future, consider disabling lazy loading as well.
 
 <img src="/media/screenshot-2024-10-28-at-13.32.34.png" width=400 > <p><center>Example from Blocs</center></p>
 
@@ -128,7 +129,7 @@ Y﻿ou'll need to write a summery this will be your title for this bunch of chan
 
 <img src="/media/screenshot-2024-10-29-at-12.11.57.png" width=400 > <p><center>P﻿ushing code</center></p>
 
-O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. In the future when updating your website this is all you need to do. Netify will handle its self.
+Once the code has been uploaded (or “pushed”) to GitHub, it’s time to set up Netlify. In the future, updating your website is as simple as pushing new code to GitHub—Netlify will handle the rest automatically.
 
 # Step 3 - Netify
 
@@ -136,13 +137,7 @@ O﻿nce the code has been Uploaded/Pushed to github its time to set up Netify. I
 
 ## Step 3.1 - A new Project
 
-
-
-## S﻿tep 3.2 - 
-
-
-
-
+## S﻿tep 3.2 -
 
 * Setting up a project
 *
