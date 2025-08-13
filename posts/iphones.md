@@ -8,7 +8,7 @@ A﻿fter recently switching to an iphone. the keyboard is stupid. side loading i
 
 T﻿HE KEYBOARD IS SOO STUPID. Yandex is the only useable one and there i need to give my enitre life to russia. if i dont give it full keyboard access. it keeps prompting me. fucking cunts. **GIVE ME A WORKING KEYBOARD.**
 
-NeoFreeBird is cool. s o is a hacked instagram thing i found. i would like more. but cant have unless i pay £79 per year. which i dont want to.
+NeoFreeBird is cool. so is a hacked instagram thing i found. i would like more. but cant have unless i pay £79 per year. which i dont want to.
 
 **T﻿HERE ISNT A SINGLE GOOD 2048 GAME!**
 
